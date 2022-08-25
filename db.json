@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "fname": "aaa",
+      "lname": "bbb",
+      "email": "aaa@bbb.com",
+      "phone": "11223359",
+      "dob": "2001-01-01"
+    },
+    {
+      "fname": "a",
+      "lname": "b",
+      "email": "a@b.com",
+      "phone": "123459",
+      "dob": "2011-11-11"
+    }
+  ]
+}

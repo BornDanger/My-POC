@@ -1,0 +1,14 @@
+@media screen and (min-width:995px) {
+    table{
+        width:75%;
+        margin:auto;
+        text-align: center;
+    }
+
+    form{
+        width:50%;
+        padding:20px;
+        border: 1px solid grey;
+        border-radius: 15px;
+    }
+}
